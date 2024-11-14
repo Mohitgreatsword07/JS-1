@@ -8,8 +8,8 @@ myArr.push(6)
 // myArr.unshift(7)
 // myArr.shift()
 const newArr = myArr.join()
-console.log(myArr);
-console.log(newArr);
+// console.log(myArr);
+// console.log(newArr);
 // mtlb ki simply jo array rehta wo string me convert ho jaata , aur square bracket hatt jaate
 const marvel_heros = ["thor","ironman","spiderman"]
 const dc_heros = ["superman","flash","batman"]
@@ -17,6 +17,15 @@ const dc_heros = ["superman","flash","batman"]
 // console.log(marvel_heros);
 // const allheros = marvel_heros.concat(dc_heros)
 // console.log(allheros);
+// const all_new_heros = [...marvel_heros,...dc_heros]
+// console.log(all_new_heros );
+// console.log(Array.isArray("mohit"))
+// console.log(Array.from("mohit"));
+// console.log(Array.from({name:"mohit"}));
+
+
+
+
 
 
 
